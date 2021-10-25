@@ -33,7 +33,7 @@ function Header() {
 
         {/* Right  */}
         <div className="flex items-center justify-end space-x-4">
-          <HomeIcon className="navButton " />
+          <HomeIcon className="navButton" />
           <MenuIcon className="h-6 lg:hidden cursor-pointer " />
           <div className=" relative">
             <PaperAirplaneIcon className="navButton rotate-45" />
