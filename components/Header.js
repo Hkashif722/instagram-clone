@@ -49,7 +49,7 @@ function Header() {
           <HeartIcon className="navButton" />
           <img
             className="h-10 rounded-full cursor-pointer "
-            src="https://static.vecteezy.com/system/resources/thumbnails/000/439/863/small/Basic_Ui__28186_29.jpg"
+            src="https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/322868_1100-800x825.jpg"
             alt=""
           />
         </div>
